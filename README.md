@@ -1,4 +1,4 @@
-# Elevate Labs Task-7
+# Fetch and Display data from public API
 
 This project is a simple, attractive web app that fetches and displays user data from a public API using JavaScript's Fetch API.
 
